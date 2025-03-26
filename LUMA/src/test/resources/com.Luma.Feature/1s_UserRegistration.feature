@@ -17,5 +17,5 @@ Feature: Checking User Registration
 
      Examples:  
       | FirstName | LastName | InvalidEmail          | Password    | ConfirmPassword | ValidEmail               | Message                     |error  |
-      | gvs       | d        | 					asdfg		     | Dharani@123 | Dharani@123	   | dharani09999@gmail.com        | Thank you for registering with Main Website Store.   |Please enter a valid email address (Ex: johndoe@domain.com).|
+      | gvs       | d        | 					asdfg		     | Dharani@123 | Dharani@123	   | dharani09999222@gmail.com        | Thank you for registering with Main Website Store.   |Please enter a valid email address (Ex: johndoe@domain.com).|
     
